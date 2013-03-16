@@ -1,0 +1,28 @@
+body{
+	background: #eee;
+}
+.wrapper{
+	width: 80%;
+	height: 100%;
+	margin:auto;
+}
+.circulo{
+	border-radius: 50%;
+	padding: 3%;
+	background-color: #fff;
+	border: 1px #ccc solid;
+
+	text-align: center;
+	display: inline-block;
+	text-overflow: ellipsis;
+
+	width:150px;
+	height: 150px;
+
+	color: #aaa;
+}
+#principal{
+	position: relative;
+	top: 50%;
+	left: 30%;
+}
